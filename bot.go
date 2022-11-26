@@ -130,8 +130,10 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"    // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"        // 猜单词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"         // 月幕galgame
-
-	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
+	_ "github.com/huaixwuyu/ZeroBot-Plugin/plugin/meinvcalendar" // 美女日历
+	_ "github.com/huaixwuyu/ZeroBot-Plugin/plugin/dailycalendar" // 日历
+	_ "github.com/huaixwuyu/ZeroBot-Plugin/plugin/girl" // 美女
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
